@@ -1,0 +1,1056 @@
+$date
+	Fri Jan 21 15:42:35 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Adder64Bit_tb $end
+$var wire 64 ! sum [63:0] $end
+$var reg 64 " input1 [63:0] $end
+$var reg 64 # input2 [63:0] $end
+$scope module uut $end
+$var wire 64 $ input1 [63:0] $end
+$var wire 64 % input2 [63:0] $end
+$var wire 1 & carry_out $end
+$var wire 64 ' carry [63:0] $end
+$var wire 64 ( answer [63:0] $end
+$scope begin generate_Adder64Bit[0] $end
+$scope begin genblk2 $end
+$scope module f $end
+$var wire 1 ) c $end
+$var wire 1 * s $end
+$var wire 1 + x $end
+$var wire 1 , y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[1] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 - c_in $end
+$var wire 1 . c_out $end
+$var wire 1 / s $end
+$var wire 1 0 x $end
+$var wire 1 1 y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[2] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 2 c_in $end
+$var wire 1 3 c_out $end
+$var wire 1 4 s $end
+$var wire 1 5 x $end
+$var wire 1 6 y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[3] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 7 c_in $end
+$var wire 1 8 c_out $end
+$var wire 1 9 s $end
+$var wire 1 : x $end
+$var wire 1 ; y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[4] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 < c_in $end
+$var wire 1 = c_out $end
+$var wire 1 > s $end
+$var wire 1 ? x $end
+$var wire 1 @ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[5] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 A c_in $end
+$var wire 1 B c_out $end
+$var wire 1 C s $end
+$var wire 1 D x $end
+$var wire 1 E y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[6] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 F c_in $end
+$var wire 1 G c_out $end
+$var wire 1 H s $end
+$var wire 1 I x $end
+$var wire 1 J y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[7] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 K c_in $end
+$var wire 1 L c_out $end
+$var wire 1 M s $end
+$var wire 1 N x $end
+$var wire 1 O y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[8] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 P c_in $end
+$var wire 1 Q c_out $end
+$var wire 1 R s $end
+$var wire 1 S x $end
+$var wire 1 T y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[9] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 U c_in $end
+$var wire 1 V c_out $end
+$var wire 1 W s $end
+$var wire 1 X x $end
+$var wire 1 Y y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[10] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 Z c_in $end
+$var wire 1 [ c_out $end
+$var wire 1 \ s $end
+$var wire 1 ] x $end
+$var wire 1 ^ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[11] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 _ c_in $end
+$var wire 1 ` c_out $end
+$var wire 1 a s $end
+$var wire 1 b x $end
+$var wire 1 c y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[12] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 d c_in $end
+$var wire 1 e c_out $end
+$var wire 1 f s $end
+$var wire 1 g x $end
+$var wire 1 h y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[13] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 i c_in $end
+$var wire 1 j c_out $end
+$var wire 1 k s $end
+$var wire 1 l x $end
+$var wire 1 m y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[14] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 n c_in $end
+$var wire 1 o c_out $end
+$var wire 1 p s $end
+$var wire 1 q x $end
+$var wire 1 r y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[15] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 s c_in $end
+$var wire 1 t c_out $end
+$var wire 1 u s $end
+$var wire 1 v x $end
+$var wire 1 w y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[16] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 x c_in $end
+$var wire 1 y c_out $end
+$var wire 1 z s $end
+$var wire 1 { x $end
+$var wire 1 | y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[17] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 } c_in $end
+$var wire 1 ~ c_out $end
+$var wire 1 !" s $end
+$var wire 1 "" x $end
+$var wire 1 #" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[18] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 $" c_in $end
+$var wire 1 %" c_out $end
+$var wire 1 &" s $end
+$var wire 1 '" x $end
+$var wire 1 (" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[19] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 )" c_in $end
+$var wire 1 *" c_out $end
+$var wire 1 +" s $end
+$var wire 1 ," x $end
+$var wire 1 -" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[20] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 ." c_in $end
+$var wire 1 /" c_out $end
+$var wire 1 0" s $end
+$var wire 1 1" x $end
+$var wire 1 2" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[21] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 3" c_in $end
+$var wire 1 4" c_out $end
+$var wire 1 5" s $end
+$var wire 1 6" x $end
+$var wire 1 7" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[22] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 8" c_in $end
+$var wire 1 9" c_out $end
+$var wire 1 :" s $end
+$var wire 1 ;" x $end
+$var wire 1 <" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[23] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 =" c_in $end
+$var wire 1 >" c_out $end
+$var wire 1 ?" s $end
+$var wire 1 @" x $end
+$var wire 1 A" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[24] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 B" c_in $end
+$var wire 1 C" c_out $end
+$var wire 1 D" s $end
+$var wire 1 E" x $end
+$var wire 1 F" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[25] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 G" c_in $end
+$var wire 1 H" c_out $end
+$var wire 1 I" s $end
+$var wire 1 J" x $end
+$var wire 1 K" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[26] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 L" c_in $end
+$var wire 1 M" c_out $end
+$var wire 1 N" s $end
+$var wire 1 O" x $end
+$var wire 1 P" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[27] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 Q" c_in $end
+$var wire 1 R" c_out $end
+$var wire 1 S" s $end
+$var wire 1 T" x $end
+$var wire 1 U" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[28] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 V" c_in $end
+$var wire 1 W" c_out $end
+$var wire 1 X" s $end
+$var wire 1 Y" x $end
+$var wire 1 Z" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[29] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 [" c_in $end
+$var wire 1 \" c_out $end
+$var wire 1 ]" s $end
+$var wire 1 ^" x $end
+$var wire 1 _" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[30] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 `" c_in $end
+$var wire 1 a" c_out $end
+$var wire 1 b" s $end
+$var wire 1 c" x $end
+$var wire 1 d" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[31] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 e" c_in $end
+$var wire 1 f" c_out $end
+$var wire 1 g" s $end
+$var wire 1 h" x $end
+$var wire 1 i" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[32] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 j" c_in $end
+$var wire 1 k" c_out $end
+$var wire 1 l" s $end
+$var wire 1 m" x $end
+$var wire 1 n" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[33] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 o" c_in $end
+$var wire 1 p" c_out $end
+$var wire 1 q" s $end
+$var wire 1 r" x $end
+$var wire 1 s" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[34] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 t" c_in $end
+$var wire 1 u" c_out $end
+$var wire 1 v" s $end
+$var wire 1 w" x $end
+$var wire 1 x" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[35] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 y" c_in $end
+$var wire 1 z" c_out $end
+$var wire 1 {" s $end
+$var wire 1 |" x $end
+$var wire 1 }" y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[36] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 ~" c_in $end
+$var wire 1 !# c_out $end
+$var wire 1 "# s $end
+$var wire 1 ## x $end
+$var wire 1 $# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[37] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 %# c_in $end
+$var wire 1 &# c_out $end
+$var wire 1 '# s $end
+$var wire 1 (# x $end
+$var wire 1 )# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[38] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 *# c_in $end
+$var wire 1 +# c_out $end
+$var wire 1 ,# s $end
+$var wire 1 -# x $end
+$var wire 1 .# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[39] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 /# c_in $end
+$var wire 1 0# c_out $end
+$var wire 1 1# s $end
+$var wire 1 2# x $end
+$var wire 1 3# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[40] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 4# c_in $end
+$var wire 1 5# c_out $end
+$var wire 1 6# s $end
+$var wire 1 7# x $end
+$var wire 1 8# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[41] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 9# c_in $end
+$var wire 1 :# c_out $end
+$var wire 1 ;# s $end
+$var wire 1 <# x $end
+$var wire 1 =# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[42] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 ># c_in $end
+$var wire 1 ?# c_out $end
+$var wire 1 @# s $end
+$var wire 1 A# x $end
+$var wire 1 B# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[43] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 C# c_in $end
+$var wire 1 D# c_out $end
+$var wire 1 E# s $end
+$var wire 1 F# x $end
+$var wire 1 G# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[44] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 H# c_in $end
+$var wire 1 I# c_out $end
+$var wire 1 J# s $end
+$var wire 1 K# x $end
+$var wire 1 L# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[45] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 M# c_in $end
+$var wire 1 N# c_out $end
+$var wire 1 O# s $end
+$var wire 1 P# x $end
+$var wire 1 Q# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[46] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 R# c_in $end
+$var wire 1 S# c_out $end
+$var wire 1 T# s $end
+$var wire 1 U# x $end
+$var wire 1 V# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[47] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 W# c_in $end
+$var wire 1 X# c_out $end
+$var wire 1 Y# s $end
+$var wire 1 Z# x $end
+$var wire 1 [# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[48] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 \# c_in $end
+$var wire 1 ]# c_out $end
+$var wire 1 ^# s $end
+$var wire 1 _# x $end
+$var wire 1 `# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[49] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 a# c_in $end
+$var wire 1 b# c_out $end
+$var wire 1 c# s $end
+$var wire 1 d# x $end
+$var wire 1 e# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[50] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 f# c_in $end
+$var wire 1 g# c_out $end
+$var wire 1 h# s $end
+$var wire 1 i# x $end
+$var wire 1 j# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[51] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 k# c_in $end
+$var wire 1 l# c_out $end
+$var wire 1 m# s $end
+$var wire 1 n# x $end
+$var wire 1 o# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[52] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 p# c_in $end
+$var wire 1 q# c_out $end
+$var wire 1 r# s $end
+$var wire 1 s# x $end
+$var wire 1 t# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[53] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 u# c_in $end
+$var wire 1 v# c_out $end
+$var wire 1 w# s $end
+$var wire 1 x# x $end
+$var wire 1 y# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[54] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 z# c_in $end
+$var wire 1 {# c_out $end
+$var wire 1 |# s $end
+$var wire 1 }# x $end
+$var wire 1 ~# y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[55] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 !$ c_in $end
+$var wire 1 "$ c_out $end
+$var wire 1 #$ s $end
+$var wire 1 $$ x $end
+$var wire 1 %$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[56] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 &$ c_in $end
+$var wire 1 '$ c_out $end
+$var wire 1 ($ s $end
+$var wire 1 )$ x $end
+$var wire 1 *$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[57] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 +$ c_in $end
+$var wire 1 ,$ c_out $end
+$var wire 1 -$ s $end
+$var wire 1 .$ x $end
+$var wire 1 /$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[58] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 0$ c_in $end
+$var wire 1 1$ c_out $end
+$var wire 1 2$ s $end
+$var wire 1 3$ x $end
+$var wire 1 4$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[59] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 5$ c_in $end
+$var wire 1 6$ c_out $end
+$var wire 1 7$ s $end
+$var wire 1 8$ x $end
+$var wire 1 9$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[60] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 :$ c_in $end
+$var wire 1 ;$ c_out $end
+$var wire 1 <$ s $end
+$var wire 1 =$ x $end
+$var wire 1 >$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[61] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 ?$ c_in $end
+$var wire 1 @$ c_out $end
+$var wire 1 A$ s $end
+$var wire 1 B$ x $end
+$var wire 1 C$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[62] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 D$ c_in $end
+$var wire 1 E$ c_out $end
+$var wire 1 F$ s $end
+$var wire 1 G$ x $end
+$var wire 1 H$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin generate_Adder64Bit[63] $end
+$scope begin genblk3 $end
+$scope module f $end
+$var wire 1 I$ c_in $end
+$var wire 1 J$ c_out $end
+$var wire 1 K$ s $end
+$var wire 1 L$ x $end
+$var wire 1 M$ y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0M$
+0L$
+0K$
+0J$
+0I$
+0H$
+0G$
+0F$
+0E$
+0D$
+0C$
+0B$
+0A$
+0@$
+0?$
+0>$
+0=$
+0<$
+0;$
+0:$
+09$
+08$
+07$
+06$
+05$
+04$
+03$
+02$
+01$
+00$
+0/$
+0.$
+0-$
+0,$
+0+$
+0*$
+0)$
+0($
+0'$
+0&$
+0%$
+0$$
+0#$
+0"$
+0!$
+0~#
+0}#
+0|#
+0{#
+0z#
+0y#
+0x#
+0w#
+0v#
+0u#
+0t#
+0s#
+0r#
+0q#
+0p#
+0o#
+0n#
+0m#
+0l#
+0k#
+0j#
+0i#
+0h#
+0g#
+0f#
+0e#
+0d#
+0c#
+0b#
+0a#
+0`#
+0_#
+0^#
+0]#
+0\#
+0[#
+0Z#
+0Y#
+0X#
+0W#
+0V#
+0U#
+0T#
+0S#
+0R#
+0Q#
+0P#
+0O#
+0N#
+0M#
+0L#
+0K#
+0J#
+0I#
+0H#
+0G#
+0F#
+0E#
+0D#
+0C#
+0B#
+0A#
+0@#
+0?#
+0>#
+0=#
+0<#
+0;#
+0:#
+09#
+08#
+07#
+06#
+05#
+04#
+03#
+02#
+01#
+00#
+0/#
+0.#
+0-#
+0,#
+0+#
+0*#
+0)#
+0(#
+0'#
+0&#
+0%#
+0$#
+0##
+0"#
+0!#
+0~"
+0}"
+0|"
+0{"
+0z"
+0y"
+0x"
+0w"
+0v"
+0u"
+0t"
+0s"
+0r"
+0q"
+0p"
+0o"
+0n"
+0m"
+0l"
+0k"
+0j"
+0i"
+0h"
+0g"
+0f"
+0e"
+0d"
+0c"
+0b"
+0a"
+0`"
+0_"
+0^"
+0]"
+0\"
+0["
+0Z"
+0Y"
+0X"
+0W"
+0V"
+0U"
+0T"
+0S"
+0R"
+0Q"
+0P"
+0O"
+0N"
+0M"
+0L"
+0K"
+0J"
+0I"
+0H"
+0G"
+0F"
+0E"
+0D"
+0C"
+0B"
+0A"
+0@"
+0?"
+0>"
+0="
+0<"
+0;"
+0:"
+09"
+08"
+07"
+06"
+05"
+04"
+03"
+02"
+01"
+00"
+0/"
+0."
+0-"
+0,"
+0+"
+0*"
+0)"
+0("
+0'"
+0&"
+0%"
+0$"
+0#"
+0""
+0!"
+0~
+0}
+0|
+0{
+0z
+0y
+0x
+0w
+0v
+0u
+0t
+0s
+0r
+0q
+0p
+0o
+0n
+0m
+0l
+0k
+0j
+0i
+1h
+0g
+1f
+0e
+0d
+0c
+0b
+0a
+0`
+0_
+0^
+1]
+1\
+0[
+0Z
+0Y
+0X
+1W
+0V
+1U
+1T
+0S
+0R
+1Q
+1P
+1O
+1N
+1M
+1L
+1K
+1J
+0I
+0H
+1G
+1F
+0E
+1D
+0C
+1B
+1A
+1@
+1?
+0>
+1=
+0<
+0;
+1:
+19
+08
+07
+16
+05
+14
+03
+02
+01
+00
+1/
+0.
+1-
+1,
+1+
+0*
+1)
+b1011010001110 (
+b111110001 '
+0&
+b1000111010101 %
+b10010111001 $
+b1000111010101 #
+b10010111001 "
+b1011010001110 !
+$end
+#100
